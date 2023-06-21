@@ -1,4 +1,4 @@
-name: CI/CD Curso NodeJS Leifer Mendez
+name: CI/CD Curso NodeJS Luis Martinez
 
 on:
   push:
